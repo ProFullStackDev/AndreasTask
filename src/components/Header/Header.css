@@ -1,0 +1,28 @@
+.header-css{
+    background-color: white;
+    box-shadow: 0px 0px 20px 0px grey;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    z-index: 2;
+    position: fixed;
+    top:0px;
+    
+    height: 8%;
+    width: 100%;
+}
+.logintext{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+.login-header-text{
+    text-align: right;
+    font-weight: 500;
+    font-size: 16px;
+    margin-right: 20px;
+}
+.topline{
+    background:transparent linear-gradient(91deg, #319795 0%, #3182CE 100%) 0% 0% no-repeat padding-box;
+    height: 5px;
+}
